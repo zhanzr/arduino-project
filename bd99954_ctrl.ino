@@ -1,3 +1,6 @@
+//Arduino Uno control the BD99954 chip.
+//Author: zhanzr@foxmail.com
+
 #include <Wire.h>
 
 #define BD_ADDR 0x09
