@@ -15,11 +15,11 @@ Due		20 (SDA), 21 (SCL), SDA1, SCL1
 
 ENC28J60:
 	Simple Webserver.
-ENC28J60	Arduino Uno	Notes
-VCC		3.3V	
-GND		GND	
-SCK		Pin 13	
-MISO		Pin 12	
-MOSI		Pin 11	
-CS		Pin 10	Selectable with the ether.begin() function
-
+|	ENC28J60	|	Arduino Uno	|	Notes					|
+| --------------------- |:---------------------:| ---------------------------------------------:|
+| VCC			| 3.3V			|						|
+| GND     		| GND			|						|
+| SCK			| Pin 13		|						|
+|MISO			| Pin 12		|						|
+|MOSI			| Pin 11	|	|						|
+|CS			| Pin 10		|Selectable with the ether.begin() function	|
